@@ -2215,6 +2215,7 @@
             "latexsvg": false,
             "name": "Basic Chinese Characters",
             "originalId": 1536314216898,
+            "originalStockKind": 1,
             "req": [
                 [
                     0,
