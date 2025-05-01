@@ -1,0 +1,136 @@
+[
+  { "hanzi": "宿舍", "pinyin": "sùshè", "meaning": "общежитие" },
+  { "hanzi": "找", "pinyin": "zhǎo", "meaning": "искать/ прийти к …" },
+  { "hanzi": "好几(个)", "pinyin": "hǎojǐ (ge)", "meaning": "очень много" },
+  {
+    "hanzi": "复杂",
+    "pinyin": "fùzá",
+    "meaning": "сложный, составной, комплексный/ гетерогенный"
+  },
+  { "hanzi": "显微镜", "pinyin": "xiǎnwēijìng", "meaning": "микроскоп" },
+  {
+    "hanzi": "观察",
+    "pinyin": "guānchá",
+    "meaning": "наблюдать (смотреть) за"
+  },
+  { "hanzi": "红", "pinyin": "hóng", "meaning": "красный" },
+  { "hanzi": "细胞", "pinyin": "xìbāo", "meaning": "клетка (биол.)" },
+  {
+    "hanzi": "结构",
+    "pinyin": "jiégòu",
+    "meaning": "конструкция, структура, строение, устройство"
+  },
+  {
+    "hanzi": "当时",
+    "pinyin": "dāngshí",
+    "meaning": "тогда, в то время (о прошлом)"
+  },
+  {
+    "hanzi": "尝试",
+    "pinyin": "chángshì",
+    "meaning": "пробовать, пытаться, испытывать"
+  },
+  {
+    "hanzi": "才",
+    "pinyin": "cái",
+    "meaning": "только что; только тогда; только в этом случае"
+  },
+  {
+    "hanzi": "成功",
+    "pinyin": "chénggōng",
+    "meaning": "успешное завершение, успех"
+  },
+  {
+    "hanzi": "重要",
+    "pinyin": "zhòngyào",
+    "meaning": "важный, значительный; существенный"
+  },
+  { "hanzi": "步", "pinyin": "bù", "meaning": "шаг; этап" },
+  {
+    "hanzi": "制作",
+    "pinyin": "zhìzuò",
+    "meaning": "вырабатывать; производить"
+  },
+  {
+    "hanzi": "标本",
+    "pinyin": "biāoběn",
+    "meaning": "образец, модель, экспонат / препарат"
+  },
+  { "hanzi": "化学", "pinyin": "huàxué", "meaning": "химия" },
+  {
+    "hanzi": "试剂",
+    "pinyin": "shìjì",
+    "meaning": "реагент, химическое вещество, реактив"
+  },
+  {
+    "hanzi": "控制",
+    "pinyin": "kòngzhì",
+    "meaning": "держать [под контролем], контролировать"
+  },
+  {
+    "hanzi": "反应",
+    "pinyin": "fǎnyìng",
+    "meaning": "отклик, отзыв, реакция (в т.ч. хим.)"
+  },
+  {
+    "hanzi": "调节",
+    "pinyin": "tiáojié",
+    "meaning": "регулировать, настраивать"
+  },
+  { "hanzi": "视野", "pinyin": "shìyě", "meaning": "обзор, поле зрения" },
+  {
+    "hanzi": "亮度",
+    "pinyin": "liàngdù",
+    "meaning": "физ. яркость; блеск, освещение"
+  },
+  { "hanzi": "底部", "pinyin": "dǐbù", "meaning": "низ; нижняя часть" },
+  { "hanzi": "镜子", "pinyin": "jìngzi", "meaning": "зеркало" },
+  { "hanzi": "平", "pinyin": "píng", "meaning": "ровный; горизонтальный" },
+  { "hanzi": "凹", "pinyin": "āo", "meaning": "вдавленный, вогнутый" },
+  { "hanzi": "面", "pinyin": "miàn", "meaning": "поверхность" },
+  {
+    "hanzi": "当...的时候",
+    "pinyin": "dāng…de shíhou",
+    "meaning": "во время…, в то время, когда"
+  },
+  { "hanzi": "强", "pinyin": "qiáng", "meaning": "сильный; мощный" },
+  { "hanzi": "弱", "pinyin": "ruò", "meaning": "слабый; хилый" },
+  { "hanzi": "低", "pinyin": "dī", "meaning": "низкий" },
+  { "hanzi": "倍", "pinyin": "bèi", "meaning": "раз, крат" },
+  {
+    "hanzi": "物镜",
+    "pinyin": "wùjìng",
+    "meaning": "линза объектива; объектив"
+  },
+  {
+    "hanzi": "转换",
+    "pinyin": "zhuǎnhuàn",
+    "meaning": "менять, заменять, переключать, конвертировать"
+  },
+  {
+    "hanzi": "粗",
+    "pinyin": "cū",
+    "meaning": "толстый / крупный (напр., о песке) / грубый"
+  },
+  { "hanzi": "准", "pinyin": "zhǔn", "meaning": "точный" },
+  {
+    "hanzi": "焦(点)",
+    "pinyin": "jiāo (diǎn)",
+    "meaning": "фокусировка, фокус"
+  },
+  { "hanzi": "螺旋", "pinyin": "luóxuán", "meaning": "винт / спираль (геом.)" },
+  { "hanzi": "细", "pinyin": "xì", "meaning": "тонкий, мелкий, детальный" },
+  { "hanzi": "清晰", "pinyin": "qīngxī", "meaning": "ясно, отчетливо" },
+  { "hanzi": "讲解", "pinyin": "jiǎngjiě", "meaning": "разъяснять, объяснять" },
+  {
+    "hanzi": "完全",
+    "pinyin": "wánquán",
+    "meaning": "полный , целый, целиком, максимально, вполне"
+  },
+  {
+    "hanzi": "记录",
+    "pinyin": "jìlù",
+    "meaning": "записи, документ; стенограмма"
+  },
+  { "hanzi": "详细", "pinyin": "xiángxì", "meaning": "детально, подробно" }
+]
