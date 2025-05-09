@@ -18,6 +18,7 @@ https://github.com/Andrew-the-Programmer/mipt_chinese/blob/main/assets/learn_new
 
 <video controls autoplay>
   <source src="assets/learn_new_words.mkv" type="video/mkv">
+  hi
 </video>
 
 ## Contribute
