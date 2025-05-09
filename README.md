@@ -1,3 +1,3 @@
-# mipt_chinese
+# MIPT chinese
 
-:3
+# Anki
