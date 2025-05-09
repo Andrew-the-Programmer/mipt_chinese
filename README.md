@@ -63,9 +63,10 @@
     >Type:
     <span class="hanzi-type">WORD</span>
   </span>
-  <span class="sound"
-    ><audio controls="" src="assets/你好-sound.mp3"></audio
-  ></span>
+<audio controls>
+  <source src="assets/你好-sound.mp3" type="audio/mpeg" />
+  Your browser does not support the audio element.
+</audio>
   <details class="strokes" open>
     <summary>Strokes:</summary>
     <div>
