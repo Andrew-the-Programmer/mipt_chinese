@@ -1,5 +1,13 @@
 # MIPT Chinese
 
+# My GitHub README
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
+
 This project is for MIPT students who are trying to learn Chinese.
 I entered in 2023, so the lessons might be outdated for you.
 
