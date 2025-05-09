@@ -14,6 +14,7 @@
 ## Learn new words
 
 ![preview](assets/learn_new_words.mkv)
+https://github.com/Andrew-the-Programmer/mipt_chinese/blob/main/assets/learn_new_words.mkv
 
 ## Contribute
 
