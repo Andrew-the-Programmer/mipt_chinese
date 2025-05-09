@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a40e508dd250905c",
+        "id": "7ce99e104f39876e",
         "type": "tabs",
         "children": [
           {
-            "id": "0bc416bc07d45d1e",
+            "id": "751ee509496880ef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,30 +161,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bc416bc07d45d1e",
+  "active": "751ee509496880ef",
   "lastOpenFiles": [
-    "mipt_chinese/deck.json~",
-    "api/chinese_note.py~",
-    "api/test.py~",
-    "mipt_chinese/4913",
-    "api/4913",
-    "api/__pycache__/col.cpython-313.pyc",
-    "api/__pycache__",
-    "api/col.py~",
-    "api/test.py",
-    "api/col.py",
-    "api/chinese_note.py",
-    "Ultimate_Chinese/media/30719_1536314216898.gif",
-    "Ultimate_Chinese/media/38498_1536314216898.gif",
-    "Ultimate_Chinese/media/21696.gif",
-    "Ultimate_Chinese/media/21574_1536314216898.gif",
-    "Ultimate_Chinese/media/29916_1536314216898.gif",
-    "Ultimate_Chinese/media/21547.gif",
-    "Ultimate_Chinese/media/24525.gif",
-    "Ultimate_Chinese/media/36156.gif",
-    "Ultimate_Chinese/media/28818_1536314216898.gif",
-    "Ultimate_Chinese/media/38604.gif",
-    "lesson_15/dialogue1.md",
-    "lessons/lesson_15/dialogue1.md"
+    "README.md~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/你好.html~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/main.py~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/sound.py~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/strokes.py~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields/sound.py~",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/tags.cpython-313.pyc",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/strokes.cpython-313.pyc",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/sound.cpython-313.pyc",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/pinyin.cpython-313.pyc",
+    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/notes.cpython-313.pyc",
+    "assets/尔-strokes.gif",
+    "assets/小-strokes.gif",
+    "assets/子-strokes.gif",
+    "assets/好-strokes.gif",
+    "assets/女-strokes.gif",
+    "assets/勹-strokes.gif",
+    "assets/八-strokes.gif",
+    "assets/你-strokes.gif",
+    "assets/亻-strokes.gif",
+    "assets/了-strokes.gif",
+    "lessons/lesson_15/dialogue1.md",
+    "lesson_15/dialogue1.md"
   ]
 }
