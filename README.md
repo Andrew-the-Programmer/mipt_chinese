@@ -1,11 +1,7 @@
 # MIPT Chinese
 
-# My GitHub README
-
-Welcome to my README!
-
 <div align="center">
-    <img src="assets/你好-info.svg" width="400" height="400" alt="css-in-readme">
+    <img src="assets/hanzi-info.svg" width="400" height="400" alt="css-in-readme">
 </div>
 
 This project is for MIPT students who are trying to learn Chinese.
