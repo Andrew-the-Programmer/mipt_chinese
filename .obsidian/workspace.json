@@ -164,6 +164,8 @@
   "active": "751ee509496880ef",
   "lastOpenFiles": [
     "README.md~",
+    "assets/你好-info.svg~",
+    "assets/你好-info.svg",
     "example.svg~",
     "example.svg",
     "api/MyUltimateChinese/anki_addon/hanzi_note/你好.html~",
@@ -174,7 +176,6 @@
     "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/tags.cpython-313.pyc",
     "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/strokes.cpython-313.pyc",
     "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/sound.cpython-313.pyc",
-    "api/MyUltimateChinese/anki_addon/hanzi_note/get_fields_new/__pycache__/pinyin.cpython-313.pyc",
     "assets/尔-strokes.gif",
     "assets/小-strokes.gif",
     "assets/子-strokes.gif",
@@ -183,7 +184,6 @@
     "assets/勹-strokes.gif",
     "assets/八-strokes.gif",
     "assets/你-strokes.gif",
-    "assets/亻-strokes.gif",
     "lessons/lesson_15/dialogue1.md",
     "lesson_15/dialogue1.md"
   ]
