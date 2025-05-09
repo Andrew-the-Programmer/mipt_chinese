@@ -13,13 +13,7 @@
 
 ## Learn new words
 
-![preview](assets/learn_new_words.mkv)
-https://github.com/Andrew-the-Programmer/mipt_chinese/blob/main/assets/learn_new_words.mkv
-
-<video controls autoplay>
-  <source src="assets/learn_new_words.mkv" type="video/mkv">
-  hi
-</video>
+https://github.com/user-attachments/assets/3f6c0a30-70eb-4616-a798-df0706ac4cf5
 
 ## Contribute
 
