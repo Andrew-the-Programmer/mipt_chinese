@@ -16,6 +16,10 @@
 ![preview](assets/learn_new_words.mkv)
 https://github.com/Andrew-the-Programmer/mipt_chinese/blob/main/assets/learn_new_words.mkv
 
+<video controls autoplay>
+  <source src="assets/learn_new_words.mkv" type="video/mkv">
+</video>
+
 ## Contribute
 
 Not supported yet 😅
