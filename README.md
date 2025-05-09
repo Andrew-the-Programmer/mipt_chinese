@@ -52,7 +52,8 @@
 
 ### Пример:
 
-(к сожалению, не удается добавить css для github)
+> не удается добавить css для github \
+> github не показывает аудио
 
 <details class="info" open>
   <summary>
@@ -63,1017 +64,909 @@
     >Type:
     <span class="hanzi-type">WORD</span>
   </span>
-<audio controls>
-  <source src="assets/你好-sound.mp3" type="audio/mpeg" />
-  Your browser does not support the audio element.
-</audio>
+  <span class="sound"></span>
   <details class="strokes" open>
     <summary>Strokes:</summary>
     <div>
-      <img class="animated-gif" src="assets/你-strokes.gif" />
-      <img class="animated-gif" src="assets/好-strokes.gif" />
-    </div>
+  <img class="animated-gif" src="assets/你-strokes.gif">
+  <img class="animated-gif" src="assets/好-strokes.gif">
+</div>
   </details>
   <details class="meaning" open>
     <summary>Meaning:</summary>
     <div>
-      <details class="meaning-item" open="">
-        <summary>nǐ hǎo</summary>
-        <ul>
-          <li>hello</li>
-          <li>hi</li>
-        </ul>
-      </details>
-    </div>
+  <details class="meaning-item" open="">
+    <summary>nǐ hǎo</summary>
+    <ul>
+      <li>hello</li>
+      <li>hi</li>
+    </ul>
+  </details>
+</div>
   </details>
   <details class="notes" open>
     <summary>Notes:</summary>
+    
   </details>
   <details class="components" open>
     <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">你</span>
+  </summary>
+  <div class="pinyin">nǐ</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">WORD</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
     <div>
-      <details class="components-item">
-        <summary>
-          <span class="hanzi">你</span>
-        </summary>
-        <div class="pinyin">nǐ</div>
-        <span class="hanzi-type-block"
-          >Type:
-          <span class="hanzi-type">WORD</span>
-        </span>
-        <span class="sound"
-          ><audio controls="" src="assets/你-sound.mp3"></audio
-        ></span>
-        <details class="strokes" open>
-          <summary>Strokes:</summary>
-          <div>
-            <img class="animated-gif" src="assets/你-strokes.gif" />
-          </div>
-        </details>
-        <details class="meaning" open>
-          <summary>Meaning:</summary>
-          <div>
-            <details class="meaning-item" open="">
-              <summary>nǐ</summary>
-              <ul>
-                <li>you (informal, as opposed to courteous 您[nin2])</li>
-              </ul>
-            </details>
-          </div>
-        </details>
-        <details class="notes" open>
-          <summary>Notes:</summary>
-        </details>
-        <details class="components" open>
-          <summary>Components:</summary>
-          <div>
-            <details class="components-item">
-              <summary>
-                <span class="hanzi">亻</span>
-              </summary>
-              <div class="pinyin">rén</div>
-              <span class="hanzi-type-block"
-                >Type:
-                <span class="hanzi-type">RADICAL</span>
-              </span>
-              <span class="sound"
-                ><audio controls="" src="assets/亻-sound.mp3"></audio
-              ></span>
-              <details class="strokes" open>
-                <summary>Strokes:</summary>
-                <div>
-                  <img class="animated-gif" src="assets/亻-strokes.gif" />
-                </div>
-              </details>
-              <details class="meaning" open>
-                <summary>Meaning:</summary>
-                <div>
-                  <details class="meaning-item" open="">
-                    <summary>1</summary>
-                    <ul>
-                      <li>human</li>
-                    </ul>
-                  </details>
-                </div>
-              </details>
-              <details class="notes" open>
-                <summary>Notes:</summary>
-              </details>
-              <details class="components" open>
-                <summary>Components:</summary>
-                <div>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">㇒</span>
-                    </summary>
-                    <div class="pinyin">㇒</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">GRAPHICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/㇒-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/㇒-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div></div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div></div>
-                    </details>
-                  </details>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">丨</span>
-                    </summary>
-                    <div class="pinyin">gǔn</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">RADICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/丨-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/丨-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>1</summary>
-                          <ul>
-                            <li>line</li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div></div>
-                    </details>
-                  </details>
-                </div>
-              </details>
-            </details>
-            <details class="components-item">
-              <summary>
-                <span class="hanzi">尔</span>
-              </summary>
-              <div class="pinyin">ěr</div>
-              <span class="hanzi-type-block"
-                >Type:
-                <span class="hanzi-type">WORD</span>
-              </span>
-              <span class="sound"
-                ><audio controls="" src="assets/尔-sound.mp3"></audio
-              ></span>
-              <details class="strokes" open>
-                <summary>Strokes:</summary>
-                <div>
-                  <img class="animated-gif" src="assets/尔-strokes.gif" />
-                </div>
-              </details>
-              <details class="meaning" open>
-                <summary>Meaning:</summary>
-                <div>
-                  <details class="meaning-item" open="">
-                    <summary>ěr</summary>
-                    <ul>
-                      <li>variant of 爾|尔[er3]</li>
-                    </ul>
-                  </details>
-                  <details class="meaning-item" open="">
-                    <summary>ěr</summary>
-                    <ul>
-                      <li>thus</li>
-                      <li>so</li>
-                      <li>like that</li>
-                      <li>you</li>
-                      <li>thou</li>
-                    </ul>
-                  </details>
-                </div>
-              </details>
-              <details class="notes" open>
-                <summary>Notes:</summary>
-              </details>
-              <details class="components" open>
-                <summary>Components:</summary>
-                <div>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">小</span>
-                    </summary>
-                    <div class="pinyin">xiǎo</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">RADICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/小-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/小-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>1</summary>
-                          <ul>
-                            <li>small</li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">亅</span>
-                          </summary>
-                          <div class="pinyin">jué</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/亅-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/亅-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>hook</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div></div>
-                          </details>
-                        </details>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">八</span>
-                          </summary>
-                          <div class="pinyin">[ bā | bá ]</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/八-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/八-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>eight</li>
-                                  <li>divide</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div>
-                              <details class="components-item">
-                                <summary>
-                                  <span class="hanzi">㇒</span>
-                                </summary>
-                                <div class="pinyin">㇒</div>
-                                <span class="hanzi-type-block"
-                                  >Type:
-                                  <span class="hanzi-type">GRAPHICAL</span>
-                                </span>
-                                <span class="sound"
-                                  ><audio
-                                    controls=""
-                                    src="assets/㇒-sound.mp3"
-                                  ></audio
-                                ></span>
-                                <details class="strokes" open>
-                                  <summary>Strokes:</summary>
-                                  <div>
-                                    <img
-                                      class="animated-gif"
-                                      src="assets/㇒-strokes.gif"
-                                    />
-                                  </div>
-                                </details>
-                                <details class="meaning" open>
-                                  <summary>Meaning:</summary>
-                                  <div></div>
-                                </details>
-                                <details class="notes" open>
-                                  <summary>Notes:</summary>
-                                </details>
-                                <details class="components" open>
-                                  <summary>Components:</summary>
-                                  <div></div>
-                                </details>
-                              </details>
-                            </div>
-                          </details>
-                        </details>
-                      </div>
-                    </details>
-                  </details>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">⺈</span>
-                    </summary>
-                    <div class="pinyin">⺈</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">RADICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/⺈-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/⺈-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>1</summary>
-                          <ul>
-                            <li>knife</li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">勹</span>
-                          </summary>
-                          <div class="pinyin">bāo</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/勹-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/勹-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>wrap</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div>
-                              <details class="components-item">
-                                <summary>
-                                  <span class="hanzi">㇒</span>
-                                </summary>
-                                <div class="pinyin">㇒</div>
-                                <span class="hanzi-type-block"
-                                  >Type:
-                                  <span class="hanzi-type">GRAPHICAL</span>
-                                </span>
-                                <span class="sound"
-                                  ><audio
-                                    controls=""
-                                    src="assets/㇒-sound.mp3"
-                                  ></audio
-                                ></span>
-                                <details class="strokes" open>
-                                  <summary>Strokes:</summary>
-                                  <div>
-                                    <img
-                                      class="animated-gif"
-                                      src="assets/㇒-strokes.gif"
-                                    />
-                                  </div>
-                                </details>
-                                <details class="meaning" open>
-                                  <summary>Meaning:</summary>
-                                  <div></div>
-                                </details>
-                                <details class="notes" open>
-                                  <summary>Notes:</summary>
-                                </details>
-                                <details class="components" open>
-                                  <summary>Components:</summary>
-                                  <div></div>
-                                </details>
-                              </details>
-                              <details class="components-item">
-                                <summary>
-                                  <span class="hanzi">㇆</span>
-                                </summary>
-                                <div class="pinyin">㇆</div>
-                                <span class="hanzi-type-block"
-                                  >Type:
-                                  <span class="hanzi-type">GRAPHICAL</span>
-                                </span>
-                                <span class="sound"
-                                  ><audio
-                                    controls=""
-                                    src="assets/㇆-sound.mp3"
-                                  ></audio
-                                ></span>
-                                <details class="strokes" open>
-                                  <summary>Strokes:</summary>
-                                  <div>
-                                    <img
-                                      class="animated-gif"
-                                      src="assets/㇆-strokes.gif"
-                                    />
-                                  </div>
-                                </details>
-                                <details class="meaning" open>
-                                  <summary>Meaning:</summary>
-                                  <div></div>
-                                </details>
-                                <details class="notes" open>
-                                  <summary>Notes:</summary>
-                                </details>
-                                <details class="components" open>
-                                  <summary>Components:</summary>
-                                  <div></div>
-                                </details>
-                              </details>
-                            </div>
-                          </details>
-                        </details>
-                      </div>
-                    </details>
-                  </details>
-                </div>
-              </details>
-            </details>
-          </div>
-        </details>
-      </details>
-      <details class="components-item">
-        <summary>
-          <span class="hanzi">好</span>
-        </summary>
-        <div class="pinyin">[ hǎo | hào ]</div>
-        <span class="hanzi-type-block"
-          >Type:
-          <span class="hanzi-type">WORD</span>
-        </span>
-        <span class="sound"
-          ><audio controls="" src="assets/好-sound.mp3"></audio
-        ></span>
-        <details class="strokes" open>
-          <summary>Strokes:</summary>
-          <div>
-            <img class="animated-gif" src="assets/好-strokes.gif" />
-          </div>
-        </details>
-        <details class="meaning" open>
-          <summary>Meaning:</summary>
-          <div>
-            <details class="meaning-item" open="">
-              <summary>hǎo</summary>
-              <ul>
-                <li>good</li>
-                <li>well</li>
-                <li>proper</li>
-                <li>good to</li>
-                <li>easy to</li>
-                <li>very</li>
-                <li>so</li>
-                <li>(suffix indicating completion or readiness)</li>
-                <li>(of two people) close</li>
-                <li>on intimate terms</li>
-                <li>(after a personal pronoun) hello</li>
-              </ul>
-            </details>
-            <details class="meaning-item" open="">
-              <summary>hào</summary>
-              <ul>
-                <li>to be fond of</li>
-                <li>to have a tendency to</li>
-                <li>to be prone to</li>
-              </ul>
-            </details>
-          </div>
-        </details>
-        <details class="notes" open>
-          <summary>Notes:</summary>
-        </details>
-        <details class="components" open>
-          <summary>Components:</summary>
-          <div>
-            <details class="components-item">
-              <summary>
-                <span class="hanzi">女</span>
-              </summary>
-              <div class="pinyin">[ nǚ | nǜ | rǔ ]</div>
-              <span class="hanzi-type-block"
-                >Type:
-                <span class="hanzi-type">RADICAL</span>
-              </span>
-              <span class="sound"
-                ><audio controls="" src="assets/女-sound.mp3"></audio
-              ></span>
-              <details class="strokes" open>
-                <summary>Strokes:</summary>
-                <div>
-                  <img class="animated-gif" src="assets/女-strokes.gif" />
-                </div>
-              </details>
-              <details class="meaning" open>
-                <summary>Meaning:</summary>
-                <div>
-                  <details class="meaning-item" open="">
-                    <summary>1</summary>
-                    <ul>
-                      <li>woman</li>
-                    </ul>
-                  </details>
-                </div>
-              </details>
-              <details class="notes" open>
-                <summary>Notes:</summary>
-              </details>
-              <details class="components" open>
-                <summary>Components:</summary>
-                <div>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">㇛</span>
-                    </summary>
-                    <div class="pinyin">㇛</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">GRAPHICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/㇛-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/㇛-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div></div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div></div>
-                    </details>
-                  </details>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">丆</span>
-                    </summary>
-                    <div class="pinyin">hǎn</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">WORD</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/丆-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/丆-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>xx</summary>
-                          <ul>
-                            <li>
-                              one of the characters used in kwukyel (phonetic
-                              &quot;myeon&quot;), an ancient Korean writing
-                              system
-                            </li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">一</span>
-                          </summary>
-                          <div class="pinyin">[ yī | yí | yì ]</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/一-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/一-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>one</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div></div>
-                          </details>
-                        </details>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">丿</span>
-                          </summary>
-                          <div class="pinyin">[ piě | yì ]</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/丿-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/丿-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>bend</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div></div>
-                          </details>
-                        </details>
-                      </div>
-                    </details>
-                  </details>
-                </div>
-              </details>
-            </details>
-            <details class="components-item">
-              <summary>
-                <span class="hanzi">子</span>
-              </summary>
-              <div class="pinyin">[ zi | zǐ ]</div>
-              <span class="hanzi-type-block"
-                >Type:
-                <span class="hanzi-type">RADICAL</span>
-              </span>
-              <span class="sound"
-                ><audio controls="" src="assets/子-sound.mp3"></audio
-              ></span>
-              <details class="strokes" open>
-                <summary>Strokes:</summary>
-                <div>
-                  <img class="animated-gif" src="assets/子-strokes.gif" />
-                </div>
-              </details>
-              <details class="meaning" open>
-                <summary>Meaning:</summary>
-                <div>
-                  <details class="meaning-item" open="">
-                    <summary>1</summary>
-                    <ul>
-                      <li>child</li>
-                    </ul>
-                  </details>
-                </div>
-              </details>
-              <details class="notes" open>
-                <summary>Notes:</summary>
-              </details>
-              <details class="components" open>
-                <summary>Components:</summary>
-                <div>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">一</span>
-                    </summary>
-                    <div class="pinyin">[ yī | yí | yì ]</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">RADICAL</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/一-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/一-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>1</summary>
-                          <ul>
-                            <li>one</li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div></div>
-                    </details>
-                  </details>
-                  <details class="components-item">
-                    <summary>
-                      <span class="hanzi">了</span>
-                    </summary>
-                    <div class="pinyin">[ le | liǎo | liào ]</div>
-                    <span class="hanzi-type-block"
-                      >Type:
-                      <span class="hanzi-type">WORD</span>
-                    </span>
-                    <span class="sound"
-                      ><audio controls="" src="assets/了-sound.mp3"></audio
-                    ></span>
-                    <details class="strokes" open>
-                      <summary>Strokes:</summary>
-                      <div>
-                        <img class="animated-gif" src="assets/了-strokes.gif" />
-                      </div>
-                    </details>
-                    <details class="meaning" open>
-                      <summary>Meaning:</summary>
-                      <div>
-                        <details class="meaning-item" open="">
-                          <summary>le</summary>
-                          <ul>
-                            <li>(completed action marker)</li>
-                            <li>
-                              (modal particle indicating change of state,
-                              situation now)
-                            </li>
-                            <li>
-                              (modal particle intensifying preceding clause)
-                            </li>
-                          </ul>
-                        </details>
-                        <details class="meaning-item" open="">
-                          <summary>liǎo</summary>
-                          <ul>
-                            <li>to finish</li>
-                            <li>to achieve</li>
-                            <li>variant of 瞭|了[liao3]</li>
-                            <li>to understand clearly</li>
-                          </ul>
-                        </details>
-                        <details class="meaning-item" open="">
-                          <summary>liǎo</summary>
-                          <ul>
-                            <li>(of eyes) bright</li>
-                            <li>clear-sighted</li>
-                            <li>to understand clearly</li>
-                          </ul>
-                        </details>
-                        <details class="meaning-item" open="">
-                          <summary>liào</summary>
-                          <ul>
-                            <li>unofficial variant of 瞭[liao4]</li>
-                          </ul>
-                        </details>
-                      </div>
-                    </details>
-                    <details class="notes" open>
-                      <summary>Notes:</summary>
-                    </details>
-                    <details class="components" open>
-                      <summary>Components:</summary>
-                      <div>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">亅</span>
-                          </summary>
-                          <div class="pinyin">jué</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">RADICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/亅-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/亅-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div>
-                              <details class="meaning-item" open="">
-                                <summary>1</summary>
-                                <ul>
-                                  <li>hook</li>
-                                </ul>
-                              </details>
-                            </div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div></div>
-                          </details>
-                        </details>
-                        <details class="components-item">
-                          <summary>
-                            <span class="hanzi">㇇</span>
-                          </summary>
-                          <div class="pinyin">㇇</div>
-                          <span class="hanzi-type-block"
-                            >Type:
-                            <span class="hanzi-type">GRAPHICAL</span>
-                          </span>
-                          <span class="sound"
-                            ><audio
-                              controls=""
-                              src="assets/㇇-sound.mp3"
-                            ></audio
-                          ></span>
-                          <details class="strokes" open>
-                            <summary>Strokes:</summary>
-                            <div>
-                              <img
-                                class="animated-gif"
-                                src="assets/㇇-strokes.gif"
-                              />
-                            </div>
-                          </details>
-                          <details class="meaning" open>
-                            <summary>Meaning:</summary>
-                            <div></div>
-                          </details>
-                          <details class="notes" open>
-                            <summary>Notes:</summary>
-                          </details>
-                          <details class="components" open>
-                            <summary>Components:</summary>
-                            <div></div>
-                          </details>
-                        </details>
-                      </div>
-                    </details>
-                  </details>
-                </div>
-              </details>
-            </details>
-          </div>
-        </details>
-      </details>
-    </div>
+  <img class="animated-gif" src="assets/你-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>nǐ</summary>
+    <ul>
+      <li>you (informal, as opposed to courteous 您[nin2])</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">亻</span>
+  </summary>
+  <div class="pinyin">rén</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/亻-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>human</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">㇒</span>
+  </summary>
+  <div class="pinyin">㇒</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇒-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">丨</span>
+  </summary>
+  <div class="pinyin">gǔn</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/丨-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>line</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">尔</span>
+  </summary>
+  <div class="pinyin">ěr</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">WORD</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/尔-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>ěr</summary>
+    <ul>
+      <li>variant of 爾|尔[er3]</li>
+    </ul>
+  </details>
+  <details class="meaning-item" open="">
+    <summary>ěr</summary>
+    <ul>
+      <li>thus</li>
+      <li>so</li>
+      <li>like that</li>
+      <li>you</li>
+      <li>thou</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">小</span>
+  </summary>
+  <div class="pinyin">xiǎo</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/小-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>small</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">亅</span>
+  </summary>
+  <div class="pinyin">jué</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/亅-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>hook</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">八</span>
+  </summary>
+  <div class="pinyin">[ bā | bá ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/八-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>eight</li>
+      <li>divide</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">㇒</span>
+  </summary>
+  <div class="pinyin">㇒</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇒-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">⺈</span>
+  </summary>
+  <div class="pinyin">⺈</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/⺈-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>knife</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">勹</span>
+  </summary>
+  <div class="pinyin">bāo</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/勹-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>wrap</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">㇒</span>
+  </summary>
+  <div class="pinyin">㇒</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇒-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">㇆</span>
+  </summary>
+  <div class="pinyin">㇆</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇆-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">好</span>
+  </summary>
+  <div class="pinyin">[ hǎo | hào ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">WORD</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/好-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>hǎo</summary>
+    <ul>
+      <li>good</li>
+      <li>well</li>
+      <li>proper</li>
+      <li>good to</li>
+      <li>easy to</li>
+      <li>very</li>
+      <li>so</li>
+      <li>(suffix indicating completion or readiness)</li>
+      <li>(of two people) close</li>
+      <li>on intimate terms</li>
+      <li>(after a personal pronoun) hello</li>
+    </ul>
+  </details>
+  <details class="meaning-item" open="">
+    <summary>hào</summary>
+    <ul>
+      <li>to be fond of</li>
+      <li>to have a tendency to</li>
+      <li>to be prone to</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">女</span>
+  </summary>
+  <div class="pinyin">[ nǚ | nǜ | rǔ ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/女-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>woman</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">丆</span>
+  </summary>
+  <div class="pinyin">hǎn</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">WORD</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/丆-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>xx</summary>
+    <ul>
+      <li>one of the characters used in kwukyel (phonetic &quot;myeon&quot;), an ancient Korean writing system</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">一</span>
+  </summary>
+  <div class="pinyin">[ yī | yí | yì ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/一-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>one</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">丿</span>
+  </summary>
+  <div class="pinyin">[ piě | yì ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/丿-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>bend</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">㇛</span>
+  </summary>
+  <div class="pinyin">㇛</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇛-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">子</span>
+  </summary>
+  <div class="pinyin">[ zi | zǐ ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/子-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>child</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">一</span>
+  </summary>
+  <div class="pinyin">[ yī | yí | yì ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/一-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>one</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">了</span>
+  </summary>
+  <div class="pinyin">[ le | liǎo | liào ]</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">WORD</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/了-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>le</summary>
+    <ul>
+      <li>(completed action marker)</li>
+      <li>(modal particle indicating change of state, situation now)</li>
+      <li>(modal particle intensifying preceding clause)</li>
+    </ul>
+  </details>
+  <details class="meaning-item" open="">
+    <summary>liǎo</summary>
+    <ul>
+      <li>to finish</li>
+      <li>to achieve</li>
+      <li>variant of 瞭|了[liao3]</li>
+      <li>to understand clearly</li>
+    </ul>
+  </details>
+  <details class="meaning-item" open="">
+    <summary>liǎo</summary>
+    <ul>
+      <li>(of eyes) bright</li>
+      <li>clear-sighted</li>
+      <li>to understand clearly</li>
+    </ul>
+  </details>
+  <details class="meaning-item" open="">
+    <summary>liào</summary>
+    <ul>
+      <li>unofficial variant of 瞭[liao4]</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div><details class="components-item">
+  <summary>
+    <span class="hanzi">亅</span>
+  </summary>
+  <div class="pinyin">jué</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">RADICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/亅-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div>
+  <details class="meaning-item" open="">
+    <summary>1</summary>
+    <ul>
+      <li>hook</li>
+    </ul>
+  </details>
+</div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+<details class="components-item">
+  <summary>
+    <span class="hanzi">㇇</span>
+  </summary>
+  <div class="pinyin">㇇</div>
+  <span class="hanzi-type-block"
+    >Type:
+    <span class="hanzi-type">GRAPHICAL</span>
+  </span>
+  <span class="sound"></span>
+  <details class="strokes" open>
+    <summary>Strokes:</summary>
+    <div>
+  <img class="animated-gif" src="assets/㇇-strokes.gif">
+</div>
+  </details>
+  <details class="meaning" open>
+    <summary>Meaning:</summary>
+    <div></div>
+  </details>
+  <details class="notes" open>
+    <summary>Notes:</summary>
+    
+  </details>
+  <details class="components" open>
+    <summary>Components:</summary>
+    <div></div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
+  </details>
+</details>
+</div>
   </details>
 </details>
 
@@ -1096,7 +989,8 @@
 
 # Anki
 
-[Anki](https://apps.ankiweb.net/) - это программа, которая помогает запоминать всякое.
+[Anki](https://apps.ankiweb.net/) - это программа, которая помогает запоминать.
+Я советую учить новые слова в Anki.
 
 ## Как добавить карточки
 
