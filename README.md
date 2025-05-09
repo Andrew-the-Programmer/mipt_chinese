@@ -13,7 +13,7 @@
 
 ## Learn new words
 
-[preview](assets/learn_new_words.mkv)
+![preview](assets/learn_new_words.mkv)
 
 ## Contribute
 
