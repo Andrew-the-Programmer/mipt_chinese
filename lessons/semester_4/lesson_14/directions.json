@@ -1,0 +1,20 @@
+[
+  { "hanzi": "上", "pinyin": "shàng", "meaning": "up" },
+  { "hanzi": "下", "pinyin": "xià", "meaning": "down" },
+  { "hanzi": "左", "pinyin": "zuǒ", "meaning": "left" },
+  { "hanzi": "右", "pinyin": "yòu", "meaning": "right" },
+  { "hanzi": "前", "pinyin": "qián", "meaning": "front" },
+  { "hanzi": "后", "pinyin": "hòu", "meaning": "back" },
+  { "hanzi": "里", "pinyin": "lǐ", "meaning": "inside" },
+  { "hanzi": "外", "pinyin": "wài", "meaning": "outside" },
+  { "hanzi": "面", "pinyin": "miàn", "meaning": "surface" },
+  { "hanzi": "旁边", "pinyin": "pángbiān", "meaning": "beside" },
+  { "hanzi": "中间", "pinyin": "zhōngjiān", "meaning": "middle" },
+  { "hanzi": "对面", "pinyin": "duìmiàn", "meaning": "opposite" },
+  { "hanzi": "附近", "pinyin": "fùjìn", "meaning": "nearby" },
+  { "hanzi": "周围", "pinyin": "zhōuwéi", "meaning": "surroundings" },
+  { "hanzi": "东", "pinyin": "dōng", "meaning": "east" },
+  { "hanzi": "西", "pinyin": "xī", "meaning": "west" },
+  { "hanzi": "南", "pinyin": "nán", "meaning": "south" },
+  { "hanzi": "北", "pinyin": "běi", "meaning": "north" }
+]

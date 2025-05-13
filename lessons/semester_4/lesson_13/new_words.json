@@ -1,0 +1,348 @@
+[
+  {
+    "hanzi": "专业",
+    "pinyin": "zhuānyè",
+    "meaning": "специальность"
+  },
+  {
+    "hanzi": "生物学",
+    "pinyin": "shēngwùxué",
+    "meaning": "биология"
+  },
+  {
+    "hanzi": "特别",
+    "pinyin": "tèbié",
+    "meaning": "чрезвычайно, очень"
+  },
+  {
+    "hanzi": "自然",
+    "pinyin": "zìrán",
+    "meaning": "природа"
+  },
+  {
+    "hanzi": "关系",
+    "pinyin": "guānxi",
+    "meaning": "отношение/я"
+  },
+  {
+    "hanzi": "科学",
+    "pinyin": "kēxué",
+    "meaning": "наука"
+  },
+  {
+    "hanzi": "应用",
+    "pinyin": "yìngyòng",
+    "meaning": "прикладной, практический"
+  },
+  {
+    "hanzi": "类",
+    "pinyin": "lèi",
+    "meaning": "род, вид, тип, сорт"
+  },
+  {
+    "hanzi": "觉得",
+    "pinyin": "juéde",
+    "meaning": "чувствовать, ощущать, кажется"
+  },
+  {
+    "hanzi": "比",
+    "pinyin": "bǐ",
+    "meaning": "по сравнению (предл.)/сравнивать"
+  },
+  {
+    "hanzi": "有意思",
+    "pinyin": "yǒuyìsi",
+    "meaning": "интересный"
+  },
+  {
+    "hanzi": "意思",
+    "pinyin": "yìsi",
+    "meaning": "смысл"
+  },
+  {
+    "hanzi": "容易",
+    "pinyin": "róngyì",
+    "meaning": "простой"
+  },
+  {
+    "hanzi": "一点儿",
+    "pinyin": "yīdiǎnr",
+    "meaning": "немного/ненамного"
+  },
+  {
+    "hanzi": "同意",
+    "pinyin": "tóngyì",
+    "meaning": "соглашаться, быть согласным"
+  },
+  {
+    "hanzi": "对...来说",
+    "pinyin": "duì...láishuō",
+    "meaning": "по мнению…, что касается…,"
+  },
+  {
+    "hanzi": "数学",
+    "pinyin": "shùxué",
+    "meaning": "математика"
+  },
+  {
+    "hanzi": "信息学",
+    "pinyin": "xìnxīxué",
+    "meaning": "информатика"
+  },
+  {
+    "hanzi": "让",
+    "pinyin": "ràng",
+    "meaning": "заставлять/велеть/разрешать"
+  },
+  {
+    "hanzi": "感觉",
+    "pinyin": "gǎnjué",
+    "meaning": "чувствовать/чувство"
+  },
+  {
+    "hanzi": "思考",
+    "pinyin": "sīkǎo",
+    "meaning": "мышление"
+  },
+  {
+    "hanzi": "乐趣",
+    "pinyin": "lèqù",
+    "meaning": "удовольствие, радость"
+  },
+  {
+    "hanzi": "肯定",
+    "pinyin": "kěndìng",
+    "meaning": "совершенно точно"
+  },
+  {
+    "hanzi": "了解",
+    "pinyin": "liǎojiě",
+    "meaning": "понимать, разбираться"
+  },
+  {
+    "hanzi": "帮助",
+    "pinyin": "bāngzhù",
+    "meaning": "помогать"
+  },
+  {
+    "hanzi": "课程",
+    "pinyin": "kèchéng",
+    "meaning": "урок/предмет"
+  },
+  {
+    "hanzi": "主要",
+    "pinyin": "zhǔyào",
+    "meaning": "основной, в основном"
+  },
+  {
+    "hanzi": "分析",
+    "pinyin": "fēnxī",
+    "meaning": "анализ, расщеплять, дифференцировать"
+  },
+  {
+    "hanzi": "解析",
+    "pinyin": "jiěxī",
+    "meaning": "анализ, аналитический, распад, разложение"
+  },
+  {
+    "hanzi": "几何",
+    "pinyin": "jǐhé",
+    "meaning": "геометрия"
+  },
+  {
+    "hanzi": "线",
+    "pinyin": "xiàn",
+    "meaning": "линия, нитка, провод"
+  },
+  {
+    "hanzi": "性",
+    "pinyin": "xìng",
+    "meaning": "характер; суффикс сущ-ных/прилаг., обозначающих свойство"
+  },
+  {
+    "hanzi": "代数",
+    "pinyin": "dàishù",
+    "meaning": "алгебра"
+  },
+  {
+    "hanzi": "维",
+    "pinyin": "wéi",
+    "meaning": "измерение (...-мерный)"
+  },
+  {
+    "hanzi": "积分",
+    "pinyin": "jīfēn",
+    "meaning": "интеграл"
+  },
+  {
+    "hanzi": "与",
+    "pinyin": "yǔ",
+    "meaning": "и (союз), с,к (предл)"
+  },
+  {
+    "hanzi": "列",
+    "pinyin": "liè",
+    "meaning": "ряд"
+  },
+  {
+    "hanzi": "微分",
+    "pinyin": "wēifēn",
+    "meaning": "дифференциал"
+  },
+  {
+    "hanzi": "方程",
+    "pinyin": "fāngchéng",
+    "meaning": "уравнение (мат.)"
+  },
+  {
+    "hanzi": "计算",
+    "pinyin": "jìsuàn",
+    "meaning": "рассчитывать"
+  },
+  {
+    "hanzi": "相关",
+    "pinyin": "xiāngguān",
+    "meaning": "быть связанным, касающийся"
+  },
+  {
+    "hanzi": "除了...以外",
+    "pinyin": "chúle...yǐwài",
+    "meaning": "кроме…, не считая…"
+  },
+  {
+    "hanzi": "包括",
+    "pinyin": "bāokuò",
+    "meaning": "содержать, включать в себя"
+  },
+  {
+    "hanzi": "牛顿",
+    "pinyin": "niúdùn",
+    "meaning": "Ньютон"
+  },
+  {
+    "hanzi": "力学",
+    "pinyin": "lìxué",
+    "meaning": "механика"
+  },
+  {
+    "hanzi": "热",
+    "pinyin": "rè",
+    "meaning": "горячий, теплота (физ.)"
+  },
+  {
+    "hanzi": "磁",
+    "pinyin": "cí",
+    "meaning": "магнит"
+  },
+  {
+    "hanzi": "经典",
+    "pinyin": "jīngdiǎn",
+    "meaning": "классический, канонический"
+  },
+  {
+    "hanzi": "场",
+    "pinyin": "cháng",
+    "meaning": "площадь, поле, место"
+  },
+  {
+    "hanzi": "论",
+    "pinyin": "(理论)",
+    "meaning": "lùn теория"
+  },
+  {
+    "hanzi": "量子",
+    "pinyin": "liàngzǐ",
+    "meaning": "квант"
+  },
+  {
+    "hanzi": "动",
+    "pinyin": "dòng",
+    "meaning": "двигаться, действовать"
+  },
+  {
+    "hanzi": "统计",
+    "pinyin": "tǒngjì",
+    "meaning": "статистика"
+  },
+  {
+    "hanzi": "流",
+    "pinyin": "liú",
+    "meaning": "течь, литься"
+  },
+  {
+    "hanzi": "体",
+    "pinyin": "tǐ",
+    "meaning": "тело, организма"
+  },
+  {
+    "hanzi": "而且",
+    "pinyin": "érqiě",
+    "meaning": "еще, к тому же, притом"
+  },
+  {
+    "hanzi": "实验",
+    "pinyin": "shíyàn",
+    "meaning": "опыт, эксперимент, эмпирический"
+  },
+  {
+    "hanzi": "知识",
+    "pinyin": "zhīshi",
+    "meaning": "знание, познание"
+  },
+  {
+    "hanzi": "特别",
+    "pinyin": "tèbié",
+    "meaning": "особенно, специфический"
+  },
+  {
+    "hanzi": "奥林匹克",
+    "pinyin": "àolínpǐkè",
+    "meaning": "олимпиада"
+  },
+  {
+    "hanzi": "竞赛",
+    "pinyin": "jìngsài",
+    "meaning": "соревнование"
+  },
+  {
+    "hanzi": "更",
+    "pinyin": "gèng",
+    "meaning": "еще более, сверх того"
+  },
+  {
+    "hanzi": "有意思",
+    "pinyin": "yǒuyìsi",
+    "meaning": "интересный"
+  },
+  {
+    "hanzi": "因为",
+    "pinyin": "yīnwèi",
+    "meaning": "потому что"
+  },
+  {
+    "hanzi": "通过",
+    "pinyin": "tōngguò",
+    "meaning": "проходить; посредством; через, сквозь; благодаря (чему-л.), за счет (чего-л.)"
+  },
+  {
+    "hanzi": "验证",
+    "pinyin": "yànzhèng",
+    "meaning": "освидетельствовать, проверить подлинность; доказательство"
+  },
+  {
+    "hanzi": "定律",
+    "pinyin": "dìnglǜ",
+    "meaning": "закон, правило (физ., хим.)"
+  },
+  {
+    "hanzi": "继续",
+    "pinyin": "jìxù",
+    "meaning": "продолжать, продолжаться"
+  },
+  {
+    "hanzi": "不但...而且",
+    "pinyin": "búdàn...érqiě",
+    "meaning": "не только…, но и…"
+  }
+]
+
