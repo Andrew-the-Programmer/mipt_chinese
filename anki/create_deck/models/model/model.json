@@ -1,0 +1,45 @@
+{
+  "name": "Hanzi Model 3",
+  "flds": [
+    {
+      "name": "hanzi"
+    },
+    {
+      "name": "pinyin"
+    },
+    {
+      "name": "hanzi_type"
+    },
+    {
+      "name": "sound"
+    },
+    {
+      "name": "strokes"
+    },
+    {
+      "name": "meaning"
+    },
+    {
+      "name": "components"
+    },
+    {
+      "name": "notes"
+    },
+    {
+      "name": "front_meaning"
+    },
+    {
+      "name": "front_hints"
+    },
+    {
+      "name": "order_in_lesson",
+      "sort_field": true
+    },
+    {
+      "name": "frequency"
+    },
+    {
+      "name": "links"
+    }
+  ]
+}

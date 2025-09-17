@@ -1,0 +1,27 @@
+<!--Domino Input front-->
+<div class="title">Draw the character that usually takes on this meaning.</div>
+
+<div>
+  <div>{{type:hanzi}}</div>
+</div>
+
+<div class="front-meaning">{{front_meaning}}</div>
+
+{{#front_hints}}
+<div class="front-hints">{{front_hints}}<br /></div>
+{{/front_hints}}
+
+<!--Input box-->
+<script>
+  var input = document.getElementById("typeans");
+  input.placeholder = "Input Chinese here";
+  input.style.width = "200px";
+  input.style.webkitTransition = "width 0.4s ease-in-out";
+  input.style.transition = "width 0.4s ease-in-out";
+  input.onfocus = function () {
+    input.style.width = "80%";
+  };
+  input.onblur = function () {
+    input.style.width = "200px";
+  };
+</script>
